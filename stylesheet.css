@@ -1,0 +1,9 @@
+.keep-awake-panel .system-status-icon {
+    opacity: 115;
+    transition-duration: 150ms;
+}
+
+.keep-awake-panel.keep-awake-on .system-status-icon {
+    opacity: 255;
+    color: #f8c146;
+}

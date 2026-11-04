@@ -1,0 +1,6 @@
+{
+  "uuid": "keep-awake-panel@arjun",
+  "name": "Keep Awake (Panel)",
+  "description": "Top-bar icon that stops the screen from dimming, locking or suspending. Click to toggle.",
+  "shell-version": ["45", "46", "47", "48", "49", "50"]
+}
